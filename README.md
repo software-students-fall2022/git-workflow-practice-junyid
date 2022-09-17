@@ -6,4 +6,4 @@ It is a website where you can find all sorts of latest news (typically in the te
 
 # Comment By JonasonWu (jw5911)
 
-It is interesting to know about an algorithms that is used for an actual website. Although the algorithm looks simple, the logic behind the calculation is slightly complicated. Although this is used to rank posts and blogs in Hacker News, I could also see it being used for YouTube video recommendations.
+It is interesting to know about an algorithm that is used for an actual website. The algorithm looks simple, but the logic behind the calculation is slightly complicated. Although this is used to rank posts and blogs in Hacker News, I could also see it being used for YouTube video recommendations.
